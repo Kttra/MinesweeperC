@@ -1,5 +1,5 @@
-# MineSweeperC
-Minesweeper made in C#. The arguments expected to be entered are the number of rows, columns, mines, and the seed number in this order (see the end for more details).
+# Minesweeper
+Minesweeper made in C. The arguments expected to be entered are the number of rows, columns, mines, and the seed number in this order (see the end for more details).
 
 After the board is generated, the program will tell the user how many boards are left and what move they would like to do. Once we receive first the row # and then the col #, we ask if they want to reveal, question, or mark the tile. In addition, they can cancel that move. Afterwards, the program repeats these steps until a mine is hit or until the user wins. The winning conditions are when all the safe tiles have been revealed and when all the mines have been marked.
 
