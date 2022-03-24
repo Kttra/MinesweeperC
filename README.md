@@ -1,5 +1,5 @@
 # MineSweeperC
-Minesweeper made in C#.
+Minesweeper made in C#. The arguments expected to be entered are the number of rows, columns, mines, and the seed number in this order. After the board is generated, the program will tell the user how many boards are left and what move they would like to do. We receive first the row # and then the col #. After we receive that, we ask if they want to reveal, question, or mark the tile. In addition, they can cancel that move. Afterwards, the program repeats these steps until a mine is hit or until the user wins. The winning conditions are when all the safe tiles have been revealed and when all the mines have been marked.
 
 **Full Game Example**
 ----------------------------
@@ -130,4 +130,10 @@ Action: 4 1 1 0 0 0
 0 1 * 1 0 0
   0 1 2 3 4
 You Won!!
+```
+**Setting Arguments/Parameters**
+----------------------------
+For those unfamiliar with arguments, you can either set parameters through cmd by opening cmd in the directory of the exe file or through codeblocks if you are running it through the source code. For example, for the .exe file, the command through the command prompt to generate a 5x5 board with 2 mines and a seed of 2 would be:
+```
+minesweeper.exe 5 5 2 2
 ```
