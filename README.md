@@ -125,7 +125,8 @@ Enter Action
 1. Question
 2. Mark
 3. Cancel
-Action: 4 1 1 0 0 0
+Action:
+4 1 1 0 0 0
 3 * 1 0 0 0
 2 1 1 0 0 0
 1 1 1 1 0 0
