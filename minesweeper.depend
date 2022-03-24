@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1497143082 source:c:\users\kevin\onedrive\school\ecs30\homework\8.) final\minesweeper\boardcopy.c
+	<stdlib.h>
+	<stdio.h>
+	"boardCopy.h"
+
+1497135270 c:\users\kevin\onedrive\school\ecs30\homework\8.) final\minesweeper\boardcopy.h
+	<stdbool.h>
+
+1497169178 source:c:\users\kevin\onedrive\school\ecs30\homework\8.) final\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	"boardCopy.h"
+	"playGame.h"
+	"validInput.h"
+	"winCond.h"
+
+1497211427 source:c:\users\kevin\onedrive\school\ecs30\homework\8.) final\minesweeper\playgame.c
+	<stdlib.h>
+	<stdio.h>
+	"boardCopy.h"
+	"playGame.h"
+	"validInput.h"
+
+1497215332 c:\users\kevin\onedrive\school\ecs30\homework\8.) final\minesweeper\playgame.h
+	<stdbool.h>
+	"boardCopy.h"
+
+1497044945 c:\users\kevin\onedrive\school\ecs30\homework\8.) final\minesweeper\validinput.h
+	<stdbool.h>
+	"boardCopy.h"
+
+1497210643 source:c:\users\kevin\onedrive\school\ecs30\homework\8.) final\minesweeper\validinput.c
+	<stdio.h>
+	<stdlib.h>
+	"validInput.h"
+	"boardCopy.h"
+
+1497215251 source:c:\users\kevin\onedrive\school\ecs30\homework\8.) final\minesweeper\wincond.c
+	<stdio.h>
+	<stdlib.h>
+	"boardCopy.h"
+	"playGame.h"
+
+1497043231 c:\users\kevin\onedrive\school\ecs30\homework\8.) final\minesweeper\wincond.h
+	<stdbool.h>
+
+1648154620 source:d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\8.) final\minesweeper\backup\boardcopy.c
+	<stdlib.h>
+	<stdio.h>
+	"boardCopy.h"
+
+1497237556 d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\8.) final\minesweeper\backup\boardcopy.h
+	<stdbool.h>
+
+1648154686 source:d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\8.) final\minesweeper\backup\main.c
+	<stdio.h>
+	<stdlib.h>
+	"boardCopy.h"
+	"playGame.h"
+	"validInput.h"
+	"winCond.h"
+
+1497237556 d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\8.) final\minesweeper\backup\playgame.h
+	<stdbool.h>
+	"boardCopy.h"
+
+1497237556 d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\8.) final\minesweeper\backup\validinput.h
+	<stdbool.h>
+	"boardCopy.h"
+
+1497237556 d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\8.) final\minesweeper\backup\wincond.h
+	<stdbool.h>
+
+1648154548 source:d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\8.) final\minesweeper\backup\playgame.c
+	<stdlib.h>
+	<stdio.h>
+	"boardCopy.h"
+	"playGame.h"
+	"validInput.h"
+
+1648153713 source:d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\8.) final\minesweeper\backup\validinput.c
+	<stdio.h>
+	<stdlib.h>
+	"validInput.h"
+	"boardCopy.h"
+
+1648153733 source:d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\8.) final\minesweeper\backup\wincond.c
+	<stdio.h>
+	<stdlib.h>
+	"boardCopy.h"
+	"playGame.h"
+
