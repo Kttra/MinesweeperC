@@ -1,8 +1,11 @@
 # MineSweeperC
 Minesweeper made in C#.
+
+**Full Game Example**
+----------------------------
+Below is an example of the program on a 5 by 5 grid.
+
 ```
-Placing mine at 0, 1
-Placing mine at 3, 0
 There are 2 mines left
 4 # # # # #
 3 # # # # #
@@ -17,6 +20,7 @@ Enter Action
 2. Mark
 3. Cancel
 Action: 0
+
 There are 2 mines left
 4 # 1 0 0 0
 3 # 1 0 0 0
@@ -31,6 +35,7 @@ Enter Action
 2. Mark
 3. Cancel
 Action: 1
+
 There are 2 mines left
 4 # 1 0 0 0
 3 # 1 0 0 0
@@ -45,6 +50,7 @@ Enter Action
 2. Mark
 3. Cancel
 Action: 0
+
 There are 2 mines left
 4 # 1 0 0 0
 3 # 1 0 0 0
@@ -60,7 +66,8 @@ Enter Action
 2. Mark
 3. Cancel
 Action: 2
-There are 1 mines left
+
+There is 1 mine left
 4 # 1 0 0 0
 3 # 1 0 0 0
 2 # 1 0 0 0
@@ -75,7 +82,8 @@ Enter Action
 2. Mark
 3. Cancel
 Action: 0
-There are 1 mines left
+
+There is 1 mine left
 4 # 1 0 0 0
 3 # 1 0 0 0
 2 # 1 0 0 0
@@ -88,7 +96,7 @@ Enter Action
 1. Question
 2. Mark
 3. Cancel
-Action: There are 1 mines left
+Action: There is 1 mine left
 4 # 1 0 0 0
 3 # 1 0 0 0
 2 1 1 0 0 0
@@ -101,7 +109,8 @@ Enter Action
 1. Question
 2. Mark
 3. Cancel
-Action: There are 1 mines left
+
+Action: There is 1 mine left
 4 1 1 0 0 0
 3 # 1 0 0 0
 2 1 1 0 0 0
