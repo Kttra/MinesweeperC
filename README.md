@@ -138,7 +138,7 @@ You Won!!
 ```
 **Setting Arguments/Parameters**
 ----------------------------
-For those unfamiliar with arguments, you can either set parameters through cmd by opening cmd in the directory of the exe file or through codeblocks if you are running it through the source code. For example, for the .exe file, the command through the command prompt to generate a 5x5 board with 2 mines and a seed of 7 would be:
+For those unfamiliar with arguments, you can either set parameters through cmd by opening cmd in the directory of the exe file or through codeblocks if you are running it through the source code. For example, for the .exe file, typing the command below through cmd will generate a 5x5 board with 2 mines and a seed of 7.
 ```
 minesweeper.exe 5 5 2 7
 ```
